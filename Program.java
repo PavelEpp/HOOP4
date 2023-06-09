@@ -3,8 +3,8 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Random;
 
-import main.java.ru.geekbrains.lesson3.task2.AgeComporator;
-import main.java.ru.geekbrains.lesson3.task2.SurnameAgeComporator;
+import main.java.HOOP4.AgeComporator;
+import main.java.HOOP4.SurnameAgeComporator;
 
 public class Program {
 
