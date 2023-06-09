@@ -1,5 +1,3 @@
-package ru.geekbrains.lesson3.task2;
-
 public class Worker extends Employee {
 
     public Worker(String name, String surname, double salary, int age) {

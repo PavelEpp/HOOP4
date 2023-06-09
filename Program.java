@@ -1,5 +1,3 @@
-package ru.geekbrains.lesson3.task2;
-
 import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Collections;
@@ -15,7 +13,7 @@ public class Program {
     /**
      * TODO: Переработать метод generateEmployee в рамках домашнего задания,
      * метод должен генерировать рабочих (Employee) разных типов.
-     * 
+     *
      * @return
      */
     static Employee generateEmployee() {
@@ -40,7 +38,7 @@ public class Program {
      * TODO: Придумать новые состояния для наших сотрудников
      * Придумать несколько Comparator'ов для сортировки сотрудников
      * по фамилии + имени или по возрасту и уровню ЗП.
-     * 
+     *
      * @param args
      */
     public static void main(String[] args) {

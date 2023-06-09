@@ -1,5 +1,3 @@
-package ru.geekbrains.lesson3.task2;
-
 public abstract class Employee implements Comparable<Employee> {
 
     protected String name;

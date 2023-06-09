@@ -1,8 +1,6 @@
-package main.java.ru.geekbrains.lesson3.task2;
+import HOOP4.Employee;
 
 import java.util.Comparator;
-
-import ru.geekbrains.lesson3.task2.Employee;
 
 public class AgeComporator implements Comparator<Employee> {
     @Override
